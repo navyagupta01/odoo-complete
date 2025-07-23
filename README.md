@@ -1,4 +1,4 @@
-# Skill Swap
+# SkillSwap
 
 Welcome to **Skill Swap**, a vibrant platform that connects professionals through an engaging swipe-based interface. Discover, match, and collaborate with others who share your skills, whether you're a developer, designer, writer, or any other skilled individual. Skill Swap empowers you to update your profile, showcase your projects, and build meaningful connections in a community designed for creativity and collaboration.
 
